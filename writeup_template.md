@@ -43,6 +43,7 @@ Here is a sample of data set
 ![alt text][image1]
 
 Here is a graph visulazation of the dataset
+
 ![alt text][image2]
 
 ### Design and Test a Model Architecture
@@ -129,6 +130,7 @@ If a well known architecture was chosen:
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
 Here are several traffic sign which i choosed from the web
+
 ![alt text][image3]
  
 
