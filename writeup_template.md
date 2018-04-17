@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./images/sample.png "sample"
 [image2]: ./images/graph.png "graph"
-[image3]: ./images/samplenet.jpg "net"
+[image3]: ./images/samplenet.png "net"
 
 
 
